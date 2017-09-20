@@ -1,0 +1,19 @@
+{
+  "name": "bootstrapdemo",
+  "version": "1.0.0",
+  "description": "bootstrapdemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trenshaw88/bootstrapdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trenshaw88/bootstrapdemo/issues"
+  },
+  "homepage": "https://github.com/trenshaw88/bootstrapdemo#readme"
+}
